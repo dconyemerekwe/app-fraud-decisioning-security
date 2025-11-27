@@ -79,7 +79,7 @@ Each section contains tables, diagrams, calculations, and concise summaries alig
 
 The full research document is included in:
 
-> **`Attack-and-Defence-For-First-Time-Payee-Decisioning.pdf`**
+> **`APP-Fraud-Decisioning-Attack-and-Defence.pdf`**
 
 ---
 
