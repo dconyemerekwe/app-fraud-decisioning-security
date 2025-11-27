@@ -87,5 +87,5 @@ The full research document is included in:
 - **Module:** COMP1806 – Information Security  
 - **Institution:** University of Greenwich  
 - **Year:** 2025  
-- **Project Type:** Coursework → Expanded portfolio version  
+- **Project Type:** Coursework
 - **Author:** Destiny Onyemerekwe
