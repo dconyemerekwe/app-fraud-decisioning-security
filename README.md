@@ -78,7 +78,7 @@ Each section contains tables, diagrams, calculations, and concise summaries alig
 ## PDF Report
 
 The full research document is included in:
-(./APP-Fraud-Decisioning-Attack-and-Defence.pdf)
+[**Open the full research PDF**](./APP-Fraud-Decisioning-Attack-and-Defence.pdf)
 
 ---
 
